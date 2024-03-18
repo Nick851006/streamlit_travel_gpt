@@ -1,0 +1,9 @@
+datetime
+pandas
+numpy
+openai
+langchain
+googlemaps==4.10.0
+outscraper==3.0.3
+scipy
+streamlit

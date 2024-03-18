@@ -1,9 +1,9 @@
 datetime
 pandas
 numpy
-openai
-langchain
+openai==1.14.1
+langchain==0.1.12
 googlemaps==4.10.0
 outscraper==3.0.3
 scipy
-streamlit
+streamlit==1.32.2

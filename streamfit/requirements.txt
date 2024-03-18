@@ -7,3 +7,4 @@ googlemaps==4.10.0
 outscraper==3.0.3
 scipy
 streamlit==1.32.2
+langchain_openai==0.0.8

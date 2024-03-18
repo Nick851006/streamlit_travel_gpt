@@ -14,7 +14,7 @@ import openai
 import os
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
-from langchain.prompts.chat import SystemMessage, HumanMessage
+from langchain.schema import HumanMessage
 from prompt import classfication_type,  search_travel_recommendations_template, reply_travel_recommendations_template, other_tool_template
 from langchain_community.chat_message_histories import (
     StreamlitChatMessageHistory,
